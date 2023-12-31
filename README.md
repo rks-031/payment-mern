@@ -11,8 +11,7 @@
 2. Transfer Amount: - Allow the user to enter the amount to transfer and the recipient's phone number. - Ensure that the sender has sufficient balance. - Deduct the transferred amount from the sender and credit it to the recipient.
 3. Cashback Handling: - Implement cashback based on the following conditions: - No cashback if the amount is a multiple of 500 (e.g., 1000, 1500, 2000). - If the amount is a multiple of 500, randomly give a coupon or notify the user of better luck next time. - 5% cashback if the transaction amount is under 1000. - 2% cashback if the transaction amount is above 1000.
 4. Display Information: - Show cashback details after the transaction. - Optionally, display the available amount of the current user.
-5. Display the transaction list of the user Evaluation Criteria: Code Structure: Well-organized and modular code.
-6. Display the transaction list of the user Evaluation Criteria: Code Structure: Well-organized and modular code.
+5. Display the transaction list of the user.
 
 # Tech Stack Used:
 1. Frontend: Vite + ReactJS, Bootstrap
