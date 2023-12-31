@@ -22,9 +22,10 @@
 # To contribute to the repository:
 1. Fork and clone the repository.
 2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
-3. Commit your changes: `git commit -m "Add some feature"`
-4. Push to the branch: `git push origin my-feature`
-5. Open a pull request.
+3. Install necessary npm packages.
+4. Commit your changes: `git commit -m "Add some feature"`
+5. Push to the branch: `git push origin my-feature`
+6. Open a pull request.
 
  # Project Maintainer:
 `Rajnish Kumar Singh`
